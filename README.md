@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=XuNjA230e3k
 
 ## Install MinGW
 Install Minimalist GNU for Windows (MinGW) from Source Forge:
-https://sourceforge.net/projects/mingw-w64/
+https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe
 
 Add the /bin directory in the MinGW installation to your PATH.
 
